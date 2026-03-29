@@ -27,3 +27,4 @@ old stock through data-driven decision making.
 ## Dataset
 Dummy dataset simulating real warehouse inventory, sales transactions,
 supplier performance, and monthly stock snapshots across 120 products
+<img width="1166" height="652" alt="Screenshot 2026-03-29 204303" src="https://github.com/user-attachments/assets/4e75f1c9-1964-4ee4-b4a9-2438eea07915" />
